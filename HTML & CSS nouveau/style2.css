@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(72, 95, 104);
+}
+
+.container1 {
+    background-color: rgb(104, 139, 153);
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+}
+
+.mon-nom {
+    display: flex;
+    font-family: sans-serif;
+    color: rgb(68, 68, 104);
+}
+
+.photo-julien {
+    display: flex;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.hard-soft {
+    display: flex;
+
+}
+
+.exp-pro {
+    display: flex;
+}
+
+.formations {
+    display: flex;
+}
+
+.perso {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.loisirs {
+    display: flex;
+}
+
+h2 {
+    font-style: italic;
+}
+
+h3 {
+    color: rgb(73, 29, 29);
+}
+
+span {
+    font-weight: bold;
+}
+
+.aurevoir {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(149, 153, 155);
+    display: flex;
+    justify-content: center;
+}
+
+.liens {
+    display: flex;
+    justify-content: center;
+
+}

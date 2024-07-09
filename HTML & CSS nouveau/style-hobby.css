@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(72, 95, 104);
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}
+
+.liens{
+    display: flex;
+    justify-content: center;
+}

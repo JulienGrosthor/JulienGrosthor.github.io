@@ -1,0 +1,10 @@
+.container{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+}
+
+.item{
+    background-color: brown;
+    padding: 10px;
+}

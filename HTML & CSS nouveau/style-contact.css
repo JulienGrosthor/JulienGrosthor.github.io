@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(72, 95, 104);
+}
+
+.liens{
+    display: flex;
+    justify-content: center;
+}
+
+.message{
+    margin: 10px;
+}
+
+.full{
+    display: flex;
+    justify-content: center;
+}
